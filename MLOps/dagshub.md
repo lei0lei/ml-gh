@@ -2,6 +2,7 @@
 layout: default
 title: dagshub
 permalink: /ml/MLOps/dagshub
+parent: mlops
 has_children: true
 has_toc: true
 ---
