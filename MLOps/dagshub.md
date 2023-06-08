@@ -16,3 +16,7 @@ has_toc: true
 </details>
 
 [dagshub官网地址](https://dagshub.com/docs/index.html)
+
+
+使用git和dvc进行版本控制,mlflow进行实验跟踪，模型注册和部署，label studio进行标注。
+
